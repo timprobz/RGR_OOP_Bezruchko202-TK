@@ -1,0 +1,14 @@
+C:\Users\timpr\ssss\2curse\OOP 1curse\RGR\PuzzleGame\PuzzleGame\bin\Debug\net10.0-windows\PuzzleGame.exe
+C:\Users\timpr\ssss\2curse\OOP 1curse\RGR\PuzzleGame\PuzzleGame\bin\Debug\net10.0-windows\PuzzleGame.deps.json
+C:\Users\timpr\ssss\2curse\OOP 1curse\RGR\PuzzleGame\PuzzleGame\bin\Debug\net10.0-windows\PuzzleGame.runtimeconfig.json
+C:\Users\timpr\ssss\2curse\OOP 1curse\RGR\PuzzleGame\PuzzleGame\bin\Debug\net10.0-windows\PuzzleGame.dll
+C:\Users\timpr\ssss\2curse\OOP 1curse\RGR\PuzzleGame\PuzzleGame\bin\Debug\net10.0-windows\PuzzleGame.pdb
+C:\Users\timpr\ssss\2curse\OOP 1curse\RGR\PuzzleGame\PuzzleGame\obj\Debug\net10.0-windows\PuzzleGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\timpr\ssss\2curse\OOP 1curse\RGR\PuzzleGame\PuzzleGame\obj\Debug\net10.0-windows\PuzzleGame.AssemblyInfoInputs.cache
+C:\Users\timpr\ssss\2curse\OOP 1curse\RGR\PuzzleGame\PuzzleGame\obj\Debug\net10.0-windows\PuzzleGame.AssemblyInfo.cs
+C:\Users\timpr\ssss\2curse\OOP 1curse\RGR\PuzzleGame\PuzzleGame\obj\Debug\net10.0-windows\PuzzleGame.csproj.CoreCompileInputs.cache
+C:\Users\timpr\ssss\2curse\OOP 1curse\RGR\PuzzleGame\PuzzleGame\obj\Debug\net10.0-windows\PuzzleGame.dll
+C:\Users\timpr\ssss\2curse\OOP 1curse\RGR\PuzzleGame\PuzzleGame\obj\Debug\net10.0-windows\refint\PuzzleGame.dll
+C:\Users\timpr\ssss\2curse\OOP 1curse\RGR\PuzzleGame\PuzzleGame\obj\Debug\net10.0-windows\PuzzleGame.pdb
+C:\Users\timpr\ssss\2curse\OOP 1curse\RGR\PuzzleGame\PuzzleGame\obj\Debug\net10.0-windows\PuzzleGame.genruntimeconfig.cache
+C:\Users\timpr\ssss\2curse\OOP 1curse\RGR\PuzzleGame\PuzzleGame\obj\Debug\net10.0-windows\ref\PuzzleGame.dll
